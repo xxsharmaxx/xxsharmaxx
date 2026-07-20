@@ -16,7 +16,7 @@
 ---
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dheeraj-sharma-a65a98266/)
 
 ---
 
