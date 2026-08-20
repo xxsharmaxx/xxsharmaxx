@@ -3,11 +3,11 @@ Hi 👋, I'm Dheeraj Sharma
 </h1>
 
 <h3 align="center">
-Software Developer • Cloud Enthusiast • MCA Student
+Software Developer • Cloud & DevOps Enthusiast • MCA Student
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Developer;Python+%7C+Java+Developer;Cloud+Computing+Enthusiast;Learning+DevOps+%26+AI;Building+Awesome+Projects+Everyday" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Software+Developer;Python+%7C+Java+Developer;Full+Stack+Developer;Cloud+%26+DevOps+Enthusiast;AI+%26+Automation+Explorer;Building+Projects+Every+Day" />
 </p>
 
 ---
@@ -18,13 +18,17 @@ Software Developer • Cloud Enthusiast • MCA Student
 
 💻 Passionate about Software Development
 
+🐍 Building projects with Python & Java
+
+🌐 Exploring Full Stack Web Development
+
 ☁️ Learning Cloud Computing & DevOps
 
-🤖 Exploring AI and Automation
+🤖 Exploring Artificial Intelligence & Automation
 
-🚀 Love building Full Stack Projects
+🚀 Building practical projects and developer tools
 
-📚 Always learning new technologies
+📚 Continuously learning new technologies
 
 ---
 
@@ -32,12 +36,16 @@ Software Developer • Cloud Enthusiast • MCA Student
 
 - Python
 - Java
+- C / C++
+- JavaScript
 - React
-- Cloud
+- Node.js
+- Cloud Computing
 - Docker
 - Kubernetes
 - DevOps
-- AI
+- AI & Automation
+- Data Structures & Algorithms
 
 ---
 
@@ -46,48 +54,52 @@ Software Developer • Cloud Enthusiast • MCA Student
 <p align="left">
 
 <a href="https://www.linkedin.com/in/dheeraj-sharma-a65a98266/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/xxsharmaxx">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 💻 Languages
+# 💻 Programming Languages
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js" />
 
 </p>
 
 ---
 
-# 🌐 Frontend
+# 🌐 Frontend Development
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react" />
 
 </p>
 
 ---
 
-# ⚙️ Backend
+# ⚙️ Backend Development
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 
 </p>
 
 ---
 
-# 🗄️ Database
+# 🗄️ Databases
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 
 </p>
 
@@ -97,80 +109,100 @@ Software Developer • Cloud Enthusiast • MCA Student
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,git,github"/>
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,git,github" />
 
 </p>
 
 ---
 
-# 🛠️ IDEs & Tools
+# 🛠️ Tools & IDEs
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,figma"/>
+<img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,postman,figma" />
 
 </p>
 
 ---
 
-# 📈 GitHub Stats
+# 🤖 AI & Data
 
-<p align="center">
+<p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=xxsharmaxx&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxsharmaxx&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-
-
-
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=xxsharmaxx&theme=tokyo-night"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🔥 What I'm Building
 
-<p align="center">
+### 🚀 DevPilot AI
 
-<img src="https://github-profile-trophy.vercel.app/?username=xxsharmaxx&theme=tokyonight&no-frame=true&row=1&column=6"/>
+Multi-agent software engineering assistant designed to help with:
 
-</p>
+- Requirements analysis
+- Project planning
+- Architecture generation
+- Code generation
+- Code review
+- Testing
+- Documentation
+- Project packaging
+
+**Tech:** Python • FastAPI • React • TypeScript • AI Agents
 
 ---
 
-# 🚀 Featured Projects
+# 📂 Other Projects
 
-| Project | Tech |
-|---------|------|
+| Project | Technology |
+|---------|------------|
 | 🎵 Mood-Based Music Suggestion | Python |
 | 💰 Expense Analyzer | Python + MySQL |
-| 🌐 Form Validation | HTML CSS JS |
-| 🚗 Smart Parking System | Java + MySQL |
-| ☁️ NEXUS Cloud Storage | React + FastAPI |
+| 🤝 DevCollab | Node.js + Express + MongoDB |
+| 🚗 Smart Parking System | Java |
+| ☁️ NEXUS Cloud Platform | React + FastAPI |
+| 🔐 File Encryptor | Python |
+| 📊 CSV Analyzer | Python |
+| 🔍 Duplicate File Finder | Python |
+| 🧠 AI Code Reviewer | Python |
+| 🐍 Snake Game | Python + Tkinter |
+| 🔗 Smart URL Shortener | Python |
+| 🖥️ Mini Git | Python |
+| 🗄️ Mini Redis | Python |
+| 💬 Multiplayer Game | Python |
+| 🔎 Broken Link Checker | Python |
 
 ---
 
-# 📈 Profile Views
+# 📅 Daily Code Challenge
 
-<p align="center">
+I regularly build and upload small projects to improve my programming skills.
 
-<img src="https://komarev.com/ghpvc/?username=xxsharmaxx&label=Profile+Views&color=blue&style=for-the-badge"/>
+### Areas I Practice
 
-</p>
+```text
+Python
+├── Automation
+├── File Management
+├── APIs
+├── Networking
+├── Security
+└── Developer Tools
 
----
+Java
+├── OOP
+├── Backend Development
+└── Database Applications
 
-# ⚡ Quote
+C / C++
+├── DSA
+├── Algorithms
+└── Games
 
-> "Code. Learn. Improve. Repeat."
-
----
+Web Development
+├── HTML
+├── CSS
+├── JavaScript
+└── React
