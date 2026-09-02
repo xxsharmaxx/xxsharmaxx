@@ -162,35 +162,12 @@ Multi-agent software engineering assistant designed to help with:
 
 </p>
 
----
-
-# 📊 GitHub Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=xxsharmaxx&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=xxsharmaxx&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=6"/>
-
-</p>
-
----
-
 
 
 ---
 
 
 
----
 
 # 📂 Other Projects
 
