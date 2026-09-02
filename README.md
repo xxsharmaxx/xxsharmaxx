@@ -154,6 +154,56 @@ Multi-agent software engineering assistant designed to help with:
 
 ---
 
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=xxsharmaxx&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 GitHub Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=xxsharmaxx&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=xxsharmaxx&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=6"/>
+
+</p>
+
+---
+
+# 💻 Coding Activity
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=xxsharmaxx&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Calendar
+
+<p align="center">
+
+<img src="https://ghchart.rshah.org/xxsharmaxx" alt="Dheeraj Sharma GitHub Contribution Chart"/>
+
+</p>
+
+---
+
 # 📂 Other Projects
 
 | Project | Technology |
