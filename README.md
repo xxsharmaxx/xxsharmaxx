@@ -184,23 +184,11 @@ Multi-agent software engineering assistant designed to help with:
 
 ---
 
-# 💻 Coding Activity
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=xxsharmaxx&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
-# 📈 Contribution Calendar
 
-<p align="center">
-
-<img src="https://ghchart.rshah.org/xxsharmaxx" alt="Dheeraj Sharma GitHub Contribution Chart"/>
-
-</p>
 
 ---
 
