@@ -3,7 +3,7 @@ Hi 👋, I'm Dheeraj Sharma
 </h1>
 
 <h3 align="center">
-Software Developer • Cloud & DevOps Enthusiast • MCA Student
+Cloud Engineer • Cloud & DevOps Enthusiast • MCA Student
 </h3>
 
 <p align="center">
