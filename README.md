@@ -43,9 +43,10 @@ Cloud Engineer • Cloud & DevOps Enthusiast • MCA Student
 - Cloud Computing
 - Docker
 - Kubernetes
-- DevOps
+- DevOps Engineer
 - AI & Automation
 - Data Structures & Algorithms
+  
 
 ---
 
