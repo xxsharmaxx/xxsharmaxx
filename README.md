@@ -35,7 +35,7 @@ Cloud Engineer • Cloud & DevOps Enthusiast • MCA Student
 # 🚀 Current Focus
 
 - Python
-- Java
+- AWS/Azure
 - C / C++
 - JavaScript
 - React
